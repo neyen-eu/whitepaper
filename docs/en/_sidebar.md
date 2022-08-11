@@ -1,11 +1,11 @@
 - Documentation
-  - [Qui somme nous](neyen.md)
-  - [Business model](business.md)
-  - [Concidération légales](legals.md)
-  - [Marché secondaire](secondary-market.md)
+  - [Qui somme nous](en/neyen.md)
+  - [Business model](en/business.md)
+  - [Concidération légales](en/legals.md)
+  - [Marché secondaire](en/secondary-market.md)
 
 - Documentation technique
-  - [Contracts](contracts.md)
+  - [Contracts](en/contracts.md)
   - Solidity API
   * - [NeyenHouses](solidity-api/NeyenHouses.md?id=solidity-api)
   * - [NeyenHousesReseller](solidity-api/NeyenHousesReseller.md?id=solidity-api)
