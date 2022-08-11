@@ -41,12 +41,14 @@
       //   }
       // ],
       alias: {
+        '/_sidebar.md': 'https://raw.githubusercontent.com/neyen-eu/whitepaper/main/docs/fr/_sidebar.md',
         '/(fr|en)/(.*)': 'https://raw.githubusercontent.com/neyen-eu/whitepaper/main/docs/$1/$2',
       },                  
       // pathNamespaces: ['/fr', '/en'],
       mergeNavbar: true,
       loadNavbar: true,
       loadSidebar: true,
+      auto2top: true,
       homepage: 'fr/neyen.md',
       plugins: [
         function(hook) {
