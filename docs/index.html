@@ -59,14 +59,7 @@
           var footer = [
             '<footer style="text-align: center;margin-top: 50px;">',
             '<span> Copyright NEYEN  &copy; 2022 </span>',
-            '</footer>',
-            '<script async src="https://www.googletagmanager.com/gtag/js?id=G-1RH59ZRJ46"></script>',
-            '<script>',
-            'window.dataLayer = window.dataLayer || [];',
-            'function gtag(){dataLayer.push(arguments);}',
-            'gtag("js", new Date());',
-            'gtag("config", "G-1RH59ZRJ46");',
-            '</script>'
+            '</footer>'
           ].join('');
 
           hook.afterEach(function(html) {
@@ -75,6 +68,14 @@
         }
       ],
     }
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1RH59ZRJ46"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-1RH59ZRJ46');
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script 
