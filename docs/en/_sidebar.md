@@ -1,10 +1,10 @@
 - Documentation
-  - [Qui somme nous](en/neyen.md)
+  - [Presentation](en/neyen.md)
   - [Business model](en/business.md)
-  - [Concidération légales](en/legals.md)
-  - [Marché secondaire](en/secondary-market.md)
+  - [Legals](en/legals.md)
+  - [Secondary market](en/secondary-market.md)
 
-- Documentation technique
+- Technical documentation
   - [Contracts](en/contracts.md)
   - Solidity API
   * - [NeyenHouses](solidity-api/NeyenHouses.md?id=solidity-api)

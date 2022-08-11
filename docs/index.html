@@ -41,9 +41,8 @@
         }
       ],
       alias: {
-        '/(fr|en)/_sidebar.md': 'https://raw.githubusercontent.com/neyen-eu/whitepaper/main/docs/$1/_sidebar.md',
         '/(fr|en)/(.*)': 'https://raw.githubusercontent.com/neyen-eu/whitepaper/main/docs/$1/$2',
-      },
+      },                  
       tabs: {
         persist    : true,      // default
         sync       : true,      // default
@@ -51,9 +50,10 @@
         tabComments: true,      // default
         tabHeadings: true       // default
       },
+      pathNamespaces: ['/fr', '/en'],
       mergeNavbar: true,
       loadNavbar: true,
-      loadSidebar: '/(fr|en)/_sidebar.md',
+      loadSidebar: true,
       plugins: [
         function(hook) {
           var footer = [
