@@ -25,8 +25,9 @@
   <div id="app">We are building somthing special for you ...</div>
   <script>
     window.$docsify = {
-      coverpage: false,
-      name: 'NEYEN Whitepaper',
+      coverpage: true,
+      onlyCover: true,
+      name: 'NEYEN Documentation',
       // fallbackLanguages: ['fr', 'en'],
       nameLink: false,
       repo: 'https://github.com/neyen-eu/whitepaper',
@@ -49,7 +50,42 @@
       loadNavbar: true,
       loadSidebar: true,
       auto2top: true,
-      homepage: 'fr/neyen.md',
+      darklightTheme: {
+        siteFont : "PT Sans",
+        defaultTheme : 'dark',
+        codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
+        bodyFontSize : '17px',
+        dark: {
+            accent: '#e66c30',
+            toogleBackground : '#ffffff',
+            background: '#091a28',
+            textColor: '#b4b4b4',
+            codeTextColor : '#ffffff',
+            codeBackgroundColor : '#0e2233',
+            borderColor : '#0d2538',
+            blockQuoteColor : '#858585',
+            highlightColor : '#d22778',
+            sidebarSublink : '#b4b4b4',
+            codeTypeColor : '#ffffff',
+            coverBackground : 'linear-gradient(to right top, #ff2425, #d0152f, #a01330, #6f152a, #41131f, #431720, #451c22, #472024, #7a3430, #ac4d34, #da6e2e, #ff9616)',
+            toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
+        },
+        light: {
+            accent: '#e66c30',
+            toogleBackground : '#091a28',
+            background: '#ffffff',
+            textColor: '#34495e',
+            codeTextColor : '#525252',
+            codeBackgroundColor : '#f8f8f8',
+            borderColor : 'rgba(0, 0, 0, 0.07)',
+            blockQuoteColor : '#858585',
+            highlightColor : '#d22778',
+            sidebarSublink : '#b4b4b4',
+            codeTypeColor : '#091a28',
+            coverBackground : 'linear-gradient(to right top, #ff2425, #d0152f, #a01330, #6f152a, #41131f, #431720, #451c22, #472024, #7a3430, #ac4d34, #da6e2e, #ff9616)',
+            toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
+        }
+    },
       plugins: [
         function(hook) {
           var footer = [

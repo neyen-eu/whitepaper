@@ -9,7 +9,14 @@
 }
 
   
+/* edition */
 
+img[title="logo"] {
+	width: 300px;
+	height: 300px;
+}
+
+/* edition end */
 
 body:not(.ready) {
 	overflow: hidden
@@ -654,9 +661,23 @@ section.cover a:hover {
 
 section.cover p {
 	line-height: 1.5rem;
-	margin: 1em 0
+	margin: 1em 0;
+	color: white !important;
 }
 
+section.cover h1 {
+	color: white !important;
+	font-size: 2.5rem;
+	font-weight: 300;
+	margin: .625rem 0 2.5rem;
+	position: relative;
+	text-align: center
+}
+
+section.cover h1 a span{
+	color: white !important;
+}
+/* Original:
 section.cover h1 {
 	color: inherit;
 	font-size: 2.5rem;
@@ -664,7 +685,7 @@ section.cover h1 {
 	margin: .625rem 0 2.5rem;
 	position: relative;
 	text-align: center
-}
+} */
 
 section.cover h1 a {
 	display: block
@@ -700,12 +721,9 @@ section.cover .cover-main>p:last-child a {
 	margin: .5rem 1rem;
 	padding: .75em 2rem;
 	text-decoration: none;
-	transition: all .15s ease
-}
-
-section.cover .cover-main>p:last-child a:last-child {
+	transition: all .15s ease;
 	background-color: var(--accent);
-	color: #fff
+	color: #fff;
 }
 
 section.cover .cover-main>p:last-child a:last-child:hover {
@@ -760,7 +778,7 @@ body {
 
 .sidebar ul li.active>a {
 	border-right: 2px solid;
-	color: rgba(230, 108, 48, 1) !important;
+	color: var(--accent);
 	font-weight: 600
 }
 
@@ -1039,6 +1057,8 @@ pre:after {
 #docsify-darklight-theme p {
 	visibility: hidden
 }
+
+
 
 /* .tooltip {
 	position: relative;
