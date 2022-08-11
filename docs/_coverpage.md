@@ -1,6 +1,6 @@
 ![logo](/_media/logo.png "logo")
 
-# NEYEN Documentation
+# Documentation
 
 [🇲🇫 Français](/fr/neyen.md)
 [🇬🇧 English](/en/neyen.md)

@@ -16,6 +16,12 @@ img[title="logo"] {
 	height: 300px;
 }
 
+@media (max-width: 640px) {
+	h1 {
+		margin-top: 25px;
+	}
+}
+
 /* edition end */
 
 body:not(.ready) {
@@ -676,6 +682,13 @@ section.cover h1 {
 
 section.cover h1 a span{
 	color: white !important;
+}
+
+section.cover h1 a{
+	pointer-events: none;
+	cursor: default;
+	text-decoration: none;
+	color: white;
 }
 /* Original:
 section.cover h1 {
