@@ -1,6 +1,17 @@
 # Prsentation
 
-[teaser video](https://www.youtube.com/embed/QMXfB7h7knM ':include :type=iframe width=560 height=315')
+
+```iframe
+height="600"
+width="100%"
+scrolling="no"
+title="Teaser video"
+src="https://www.youtube.com/embed/QMXfB7h7knM"
+frameborder="no"
+loading="lazy"
+allowtransparency="true"
+allowfullscreen="true"
+```
 
 NEYEN is a fintech that wants to offer, on its own secondary market, shares of real estate development companies with high added value on the environmental issue.
 
