@@ -1,8 +1,8 @@
 ![logo](/_media/neyen-logo.png "logo")
 
 ```iframe
-height="360"
-width="640"
+width="40%"
+height="400"
 scrolling="no"
 title="Teaser video"
 src="https://www.youtube.com/embed/QMXfB7h7knM?autoplay=1&mute=1&loop=1&modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0"
