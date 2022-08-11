@@ -1,5 +1,7 @@
 # Qui sommes nous ?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMXfB7h7knM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 NEYEN est une fintech voulant proposer, sur son propre marché secondaire, des actions de sociétés de promotion immobilière à forte valeur ajoutée sur la question environnementale.
 
 Les sociétés proposées sur notre marché secondaire seront des sociétés filles de NEYEN dont le but sera de mener à bien leurs programmes immobiliers respectifs.

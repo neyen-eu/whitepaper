@@ -1,17 +1,17 @@
-# Qui sommes nous ?
+# Prsentation
 
-NEYEN est une fintech voulant proposer, sur son propre marché secondaire, des actions de sociétés de promotion immobilière à forte valeur ajoutée sur la question environnementale.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMXfB7h7knM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Les sociétés proposées sur notre marché secondaire seront des sociétés filles de NEYEN dont le but sera de mener à bien leurs programmes immobiliers respectifs.
+NEYEN is a fintech that wants to offer, on its own secondary market, shares of real estate development companies with high added value on the environmental issue.
 
-Concernant la promotion immobilière, nous sommes spécialisées dans la construction en ossature bois qui répond aux normes écologiques actuelles tel que la norme RE2020  et celles à venir.
+The companies proposed on our secondary market will be daughter companies of NEYEN whose goal will be to carry out their respective real estate programs.
 
-Nos constructions seront réalisées pour une consommation moyenne de 15 kWH/m2.
+Regarding real estate development, we are specialized in wood-frame construction that meets current ecological standards such as the RE2020 standard and those to come.
 
-Au vue du contexte actuel, la consommation énergétique des habitations devenant un critère de plus en plus important pour les ménages, nos constructions en ossature bois faites en éco-matériaux sont un marché très porteur. 
+Our buildings will be built for an average consumption of 15 kWH/m2.
 
-Notre ambition est de pouvoir proposer des produits financiers rentables qui participent activement aux renouvellement écologique du parc immobilier français car la transition écologique peut aussi être faite par de nouveaux vecteurs d’investissements comme les nôtres.
+In view of the current context, the energy consumption of homes becoming an increasingly important criterion for households, our timber frame constructions made of eco-materials are a very promising market. 
+
+Our ambition is to be able to propose profitable financial products which participate actively in the ecological renewal of the French real estate stock because the ecological transition can also be made by new vectors of investments like ours.
 
 ---
-
-

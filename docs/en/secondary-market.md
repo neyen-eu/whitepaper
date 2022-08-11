@@ -1,12 +1,11 @@
-# Marché secondaire
+# Secondary market
 
-Le marché secondaire, dans lequel sera revendu les parts des sociétés, sera déployé sur Polygon.
+The secondary market, in which company shares will be resold, will be deployed on Polygon.
 
-Aujourd’hui, la législation française nous permet de pouvoir émettre des actions de SAS sous format d'actifs numériques. Évidemment ces actifs numériques répondent à la même législation que des titres émis de façon traditionnelle.
+Today, French legislation allows us to issue SAS shares in the form of digital assets. Obviously, these digital assets are subject to the same legislation as traditionally issued securities.
 
-Dans ce cadre, les acheteurs des actions sur notre marché secondaire devront être soumis à une vérification d’identité.
+In this context, buyers of shares on our secondary market will have to undergo identity verification.
 
-Les procédures légales auprès de l’administration française concernant le rachat des actions seront faites par nos soins. 
-La signature des documents nécessaires aux différentes transactions sera effectuée numériquement afin de fluidifier au maximum les opérations administratives.
+The legal procedures with the French administration regarding the redemption of the shares will be done by us. 
+The signature of the documents necessary for the various transactions will be done digitally in order to make the administrative operations as fluid as possible.
 
-Nous avons travaillé avec des avocats spécialisés pour définir le cadre dans lequel nous évoluons afin de respecter la réglementation française dans nos activités.
