@@ -10,8 +10,11 @@ Pour cette etape, il y aura 4 smart contracts de déployé:
 
 ## Adresse des smart contrats
 
-### rinkeby
-- NeyenHousesaddress [0x942ae16dfaddae2a04887edd50d3d33781b37ee3](https://rinkeby.etherscan.io/address/0x942ae16dfaddae2a04887edd50d3d33781b37ee3),
-- NeyenHousesResellerStorage : [0x5c086371495d437e607f6dcb6625a28d736e95d0](https://rinkeby.etherscan.io/address/0x5c086371495d437e607f6dcb6625a28d736e95d0),
-- NeyenHousesWhitelistedReseller : [0x31395F35533A10EAfb27f8a631b2F1D26c8FCBbd](https://rinkeby.etherscan.io/address/0x31395F35533A10EAfb27f8a631b2F1D26c8FCBbd),
-- NeyenHousesPublicReseller : [0xDeb6073598483676fbce58846e3739B0E42c4Fe5](https://rinkeby.etherscan.io/address/0xDeb6073598483676fbce58846e3739B0E42c4Fe5)
+### Rinkeby
+
+| Contrats                      | Adresse                                     |
+|--------------------------------|---------------------------------------------|
+| NeyenHouses                    | [0x942ae16dfaddae2a04887edd50d3d33781b37ee3](https://rinkeby.etherscan.io/address/0x942ae16dfaddae2a04887edd50d3d33781b37ee3), |
+| NeyenHousesWhitelistedReseller | [0x31395F35533A10EAfb27f8a631b2F1D26c8FCBbd](https://rinkeby.etherscan.io/address/0x31395F35533A10EAfb27f8a631b2F1D26c8FCBbd)  |
+| NeyenHousesPublicReseller      | [0xDeb6073598483676fbce58846e3739B0E42c4Fe5](https://rinkeby.etherscan.io/address/0xDeb6073598483676fbce58846e3739B0E42c4Fe5)  |
+| NeyenHousesResellerStorage     | [0x5c086371495d437e607f6dcb6625a28d736e95d0](https://rinkeby.etherscan.io/address/0x5c086371495d437e607f6dcb6625a28d736e95d0)  |
