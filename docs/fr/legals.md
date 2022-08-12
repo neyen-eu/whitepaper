@@ -32,6 +32,6 @@ Les vérifications d'identités seront lié a une address d'un portefeuille d'ac
 
 Dans le cadre de nos activité est simple, la récolte des données sera éffectuer par un prestataire spécialisé et securisé par nos soins. Les outils pour stocker ces données repondent au norme de sécurité ISO 27001, ISO 27017 et ISO 27018.
 
-Notre politique est simple, les données resterons privé et transmise aux administration étatique compétantes qu'en cas de procédés légaux auquel nous devons nous soumettre.
+Notre politique est simple, les données resterons privé et transmise aux administration étatique compétantes qu'en cas de procédés légaux auquel nous devons nous soumettre. En cas de transmission de données, vous en serrez avertie.
 
 Nous sommes conscient que ces données sont extremement sensible et nous mettons un point d'attention sur la sécurité de la plateforme qui les heberge.

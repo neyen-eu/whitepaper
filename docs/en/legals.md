@@ -32,6 +32,6 @@ The identity verification will be linked to an address of a portfolio of digital
 
 In the framework of our activity is simple, the data collection will be done by a specialized provider and secured by us. The tools to store this data meet the security standard ISO 27001, ISO 27017 and ISO 27018.
 
-Our policy is simple, the data will remain private and transmitted to the competent state administration only in case of legal procedures to which we must submit.
+Our policy is simple, the data will remain private and transmitted to the competent state administration only in case of legal procedures to which we must submit. In case of data transmission, you will be notified.
 
 We are aware that these data are extremely sensitive and we put a point of attention on the security of the platform that hosts them.
