@@ -28,6 +28,10 @@ Thus, the DEEP must be designed and implemented in such a way as to guarantee th
 Within this framework, we have the obligation to proceed to an identity verification with the subscribers of the STO. 
 The identity verification will be linked to an address of a portfolio of digital assets. 
 
-The data collection will be done by a specialized provider and secured by us. The tools to store this data meet the security standards ISO 27001, ISO 27017 and ISO 27018.
+## Privacy Policy
 
-Translated with www.DeepL.com/Translator (free version)
+In the framework of our activity is simple, the data collection will be done by a specialized provider and secured by us. The tools to store this data meet the security standard ISO 27001, ISO 27017 and ISO 27018.
+
+Our policy is simple, the data will remain private and transmitted to the competent state administration only in case of legal procedures to which we must submit.
+
+We are aware that these data are extremely sensitive and we put a point of attention on the security of the platform that hosts them.

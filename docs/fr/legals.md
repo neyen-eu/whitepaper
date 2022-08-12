@@ -28,4 +28,10 @@ Ainsi, le DEEP doit être conçu et mis en œuvre de façon à garantir l’enre
 Dans ce cadre, nous avons l'obligation de procéder à une verification d'identité aupres des souscripteurs des STO. 
 Les vérifications d'identités seront lié a une address d'un portefeuille d'actifs numériques. 
 
-La récolte des données sera éffectuer par un prestataire spécialisé et securisé par nous soins. Les outils pour stocker ces données repondent au norme de sécurité ISO 27001, ISO 27017 et ISO 27018.
+## Politique sur la vie privé
+
+Dans le cadre de nos activité est simple, la récolte des données sera éffectuer par un prestataire spécialisé et securisé par nos soins. Les outils pour stocker ces données repondent au norme de sécurité ISO 27001, ISO 27017 et ISO 27018.
+
+Notre politique est simple, les données resterons privé et transmise aux administration étatique compétantes qu'en cas de procédés légaux auquel nous devons nous soumettre.
+
+Nous sommes conscient que ces données sont extremement sensible et nous mettons un point d'attention sur la sécurité de la plateforme qui les heberge.

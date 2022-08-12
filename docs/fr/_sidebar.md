@@ -1,6 +1,7 @@
 - Documentation
   - [Qui somme nous](fr/neyen.md)
   - [Business model](fr/business.md)
+  - [Roadmap](fr/roadmap.md)
   - [Concidération légales](fr/legals.md)
   - [Marché secondaire](fr/secondary-market.md)
 

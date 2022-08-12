@@ -1,6 +1,7 @@
 - Documentation
   - [Presentation](en/neyen.md)
   - [Business model](en/business.md)
+  - [Roadmap](fr/roadmap.md)
   - [Legals](en/legals.md)
   - [Secondary market](en/secondary-market.md)
 
