@@ -5,11 +5,15 @@
   - [Concidération légales](fr/legals.md)
   - [Marché secondaire](fr/secondary-market.md)
 
+- Financement
+  * - [Les NFTs](fr/nfts.md)
+  * - [Déroulement des ventes](fr/sales.md)
+
 - Documentation technique
   - [Contracts](fr/contracts.md)
   - Solidity API
-  * - [NeyenHouses](solidity-api/NeyenHouses.md?id=solidity-api)
-  * - [NeyenHousesReseller](solidity-api/NeyenHousesReseller.md?id=solidity-api)
-  * - [NeyenHousesWhitelistedReseller](solidity-api/NeyenHousesWhitelistedReseller.md?id=solidity-api)
-  * - [NeyenHousesPublicReseller](solidity-api/NeyenHousesPublicReseller.md?id=solidity-api)
-  * - [NeyenHousesResellerStorage](solidity-api/NeyenHousesResellerStorage.md?id=solidity-api)
+  * - [NeyenHouses](solidity-api/NeyenHouses.md)
+  * - [NeyenHousesReseller](solidity-api/NeyenHousesReseller.md)
+  * - [NeyenHousesWhitelistedReseller](solidity-api/NeyenHousesWhitelistedReseller.md)
+  * - [NeyenHousesPublicReseller](solidity-api/NeyenHousesPublicReseller.md)
+  * - [NeyenHousesResellerStorage](solidity-api/NeyenHousesResellerStorage.md)
