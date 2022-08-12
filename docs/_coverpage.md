@@ -1,7 +1,7 @@
 ![logo](/_media/neyen-logo.png "logo")
 
 ```iframe
-width="40%"
+width="60%"
 height="400"
 scrolling="no"
 title="Teaser video"

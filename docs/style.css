@@ -21,6 +21,20 @@ h1#documentation {
 	margin-bottom: 25px;
 }
 
+@media (max-width: 640px) {
+	.cover-main iframe {
+		width: 90%;
+		height: 400px;
+	}
+}
+
+@media (min-width: 640px) {
+	.cover-main iframe {
+		width: 60%;
+		height: 450px;
+	}
+}
+
 
 /* edition end */
 
