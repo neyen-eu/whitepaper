@@ -6,8 +6,8 @@
   - [Secondary market](en/secondary-market.md)
 
 - Financing
-  * - [The NFTs](en/nfts.md)
-  * - [Sales process](en/sales.md)
+  - [The NFTs](en/nfts.md)
+  - [Sales process](en/sales.md)
 
 - Technical documentation
   - [Contracts](en/contracts.md)
