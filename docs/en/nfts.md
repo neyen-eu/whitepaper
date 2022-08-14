@@ -1,3 +1,3 @@
 # Les NFTs
 
-[nft](/_medias/animmation.gif)
+[nft](/_medias/animation.gif)
