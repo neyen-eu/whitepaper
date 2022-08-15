@@ -1,3 +1,3 @@
 # Les NFTs
 
-![nft](https://docs.neyen.eu/_media/animation.gif ':width=600')
+![nft](https://docs.neyen.eu/_media/animation.gif ':width=600 :align=center')
