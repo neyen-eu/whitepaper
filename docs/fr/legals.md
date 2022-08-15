@@ -1,4 +1,4 @@
-# Concidération légales
+# Considérations légales
 
 Nous avons travaillé avec des avocats spécialisés pour définir le cadre dans lequel nous évoluons afin de respecter la réglementation française dans nos activités.
 

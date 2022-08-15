@@ -3,6 +3,7 @@
   - [Business model](fr/business.md)
   - [Roadmap](fr/roadmap.md)
   - [Concidération légales](fr/legals.md)
+  - [Marché primaire](fr/primary-market.md)
   - [Marché secondaire](fr/secondary-market.md)
 
 - Financement

@@ -16,6 +16,12 @@ img[title="logo"] {
 	height: 220px;
 }
 
+img[alt="nft"] {
+	width: 50%;
+	margin-left: 25%;
+	margin-top: -100px;
+}
+
 h1#documentation {
 	margin-top: 25px;
 	margin-bottom: 25px;
