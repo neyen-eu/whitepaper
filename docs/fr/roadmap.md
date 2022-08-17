@@ -8,16 +8,19 @@ La vente des NFTs se fera en plusieurs étapes et sous plusieurs formats.
 
 Dans ces différentes étapes, un même utilisateur sera limité au nombre de NFT qu'il pourra acheter afin d'éviter certaines contraintes légales. 
 
-#### Vente privé des NFTs
+* - Vente privé des NFTs
 
 Cette vente se fera au travers d'une whitelist.
+
 Celle-ci sera constituée des membres actifs de notre communauté.
+
 5,000 NFTs seront mis en vente lors de cette étape.
 
 
-#### Vente public des NFTs
+* - Vente public des NFTs
 
 Cette vente sera ouverte au public.
+
 10,000 NFTs seront mis en vente lors de cette étape.
 
 
