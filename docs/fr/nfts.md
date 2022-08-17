@@ -8,4 +8,4 @@ Nous avons travaillé avec un partenaire spécialisé dans la conception 3D proc
 
 L'avantage premier de posséder un des NFT de la collection sera d'avoir un accès anticipé aux différentes STO sur notre marché primaire. Autrement dit, si vous détenez un de ces NFTs, vous aurez accès 48 heures en avances au part des différents programmes immobiliers qui seront proposé sur le marché primaire.
 
-D’autre part, les NFT sont des objets 3D qui pourront être inspectés en réalité virtuelle. Ils feront partie intégrante d’un projet secondaire qui reste à définir.
+D’autre part, les NFT sont des objets 3D qui pourront être inspectés en réalité virtuelle. Ils feront partie intégrante d’un projet secondaire, Neyen World, dont les spécificités reste à définir.

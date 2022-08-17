@@ -45,4 +45,10 @@ Mise en place des processus légaux et de la plateforme de signature électroniq
 Déroulement de la première STO sur notre marketplace.
 
 
+## 2024 / 2025
 
+### Neyen World
+
+Déploiement d'une plateforme de jeu où les NFTs feront partie intégrante d'un monde virtuel.
+
+Les spécificités de ce jeu seront définies ulterieurement et discutées avec notre communauté.
